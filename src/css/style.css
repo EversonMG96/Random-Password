@@ -54,5 +54,10 @@ body {
 }
 
 .container button img {
+    width: 28px;
+    margin-right: 10px;
+}
+
+.container button {
     
 }

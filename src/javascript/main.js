@@ -1,0 +1,1 @@
+const PassworBox = document.getElementById("password");

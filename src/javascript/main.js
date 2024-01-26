@@ -13,4 +13,7 @@ function createPassword() {
     password += number[Math.floor(Math.random() * number.length)];
     password += symbols[Math.floor(Math.random() * symbols.length)];
 
+    while(length > password.length) {
+        
+    }
 }
